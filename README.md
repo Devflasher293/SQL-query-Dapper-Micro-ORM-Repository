@@ -1,5 +1,8 @@
 # SQL-query-Dapper-Micro-ORM-Repository
 
+The third provided sql (world.sql) is the database scheme provided by teacher. None of it is my work. 
+
+
 Example screenshot for sql_1_select.sql 
 ![image](https://github.com/Devflasher293/SQL-query-Dapper-Micro-ORM-Repository/assets/75735872/f8ccd733-c0bf-4cff-a084-c399ab8c394b)
 
